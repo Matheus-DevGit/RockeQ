@@ -10,7 +10,7 @@ html{
   --black: #0D114F;
   --white: #FAFAFA;
   --red: #E83F5B;
-  --linght-blue: #E0ECFF;
+  --light-blue: #E0ECFF;
   --blue: #3485FF;
   --backgroud: #F6FAFF;
   --overlay: #040911;
@@ -19,6 +19,7 @@ html{
   --grey-dark: #4D5E77;
   --grey-blue: #A1B2CD;
   --grey-light: #E5EAF1;
+  --grey-medium: #EAECF2;
 
   /*Mudar Tamanho da fonte*/
   font-size: 62.5%; /* 1rem = 10px */  
@@ -80,7 +81,7 @@ button:hover, .button:hover{
     filter: brightness(1.2);
 }
 
-button > img
+button > img,
 .button > img{
     margin-right: 1.2rem;
     width: 2rem;
