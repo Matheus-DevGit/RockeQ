@@ -1,0 +1,24 @@
+{
+  "name": "RocketQ",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheus-DevGit/RockeQ.git"
+  },
+  "keywords": [],
+  "author": "Matheus Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matheus-DevGit/RockeQ/issues"
+  },
+  "homepage": "https://github.com/Matheus-DevGit/RockeQ#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
